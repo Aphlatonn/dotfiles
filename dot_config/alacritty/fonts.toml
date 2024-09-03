@@ -1,0 +1,9 @@
+[font]
+size = 12
+
+builtin_box_drawing = true
+
+normal = { family = "FantasqueSansM Nerd Font", style = "SemiBold" }
+bold = { family = "FantasqueSansM Nerd Font", style = "Bold" }
+italic = { family = "FantasqueSansM Nerd Font", style = "Italic" }
+bold_italic = { family = "FantasqueSansM Nerd Font", style = "Bold Italic" }

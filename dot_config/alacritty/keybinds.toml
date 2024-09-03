@@ -1,0 +1,5 @@
+[keyboard]
+
+bindings = [
+    { key = "o", mods = "Control|Shift", command = { program = "/home/me/.local/bin/oproject", args = [] } },
+]

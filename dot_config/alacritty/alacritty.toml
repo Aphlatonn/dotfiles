@@ -1,0 +1,16 @@
+#   █████╗ ██╗      █████╗  ██████╗██████╗ ██╗████████╗████████╗██╗   ██╗
+#  ██╔══██╗██║     ██╔══██╗██╔════╝██╔══██╗██║╚══██╔══╝╚══██╔══╝╚██╗ ██╔╝
+#  ███████║██║     ███████║██║     ██████╔╝██║   ██║      ██║    ╚████╔╝
+#  ██╔══██║██║     ██╔══██║██║     ██╔══██╗██║   ██║      ██║     ╚██╔╝
+#  ██║  ██║███████╗██║  ██║╚██████╗██║  ██║██║   ██║      ██║      ██║
+#  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝      ╚═╝
+#	aphlaton - https://github.com/aphlaton/dotfiles
+
+import = [
+    "~/.config/alacritty/settings.toml",
+    "~/.config/alacritty/appearance.toml",
+    "~/.config/alacritty/fonts.toml",
+    "~/.config/alacritty/colors.toml",
+    "~/.config/alacritty/cursor.toml",
+    "~/.config/alacritty/keybinds.toml",
+]
